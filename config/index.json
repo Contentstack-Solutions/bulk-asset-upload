@@ -13,7 +13,7 @@
   },
   "target_stack_api_key" : "<<TARGET_STACK_API_KEY>>",
   "environment" : "<<ENTER ENVIRONMENT>>",
-  "locale" : "<<ENTER LOCALE>>",
+  "locale" : "en-us",
   "asset_folder_uid":"<<ENTER ASSET FOLDER UID>>",
   "folder_path":"<<FOLDER PATH FROM WHERE YOU UPLOAD YOUR ASSET>>"
 }
