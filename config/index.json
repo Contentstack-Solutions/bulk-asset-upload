@@ -1,0 +1,19 @@
+{
+  "host": "api.contentstack.io",
+  "port": "443",
+  "api_version":"v3",
+  "modules": {
+    "assets": {
+      "host": "https://api.contentstack.io"
+    }
+  },
+  "apis" : {
+    "userSession": "/user-session",
+    "assets": "/assets"
+  },
+  "target_stack_api_key" : "<<TARGET_STACK_API_KEY>>",
+  "environment" : "<<ENTER ENVIRONMENT>>",
+  "locale" : "<<ENTER LOCALE>>",
+  "asset_folder_uid":"<<ENTER ASSET FOLDER UID>>",
+  "folder_path":"<<FOLDER PATH FROM WHERE YOU UPLOAD YOUR ASSET>>"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "asset-upload",
+  "version": "0.0.1",
+  "description": "Upload asset in Built.io Contentstack",
+  "homepage": "https://www.built.io/products/contentstack/overview",
+  "author": {
+    "name": "Built.io Contentstack",
+    "url": "https://www.built.io/"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.2",
+    "mkdirp": "^0.5.1",
+    "prompt": "^1.0.0",
+    "prompt-confirm": "^1.2.0",
+    "request": "^2.45.0",
+    "when": "^3.7.7",
+    "winston": "^2.2.0"
+  },
+  "main": "app.js",
+  "scripts": {
+    "upload": "node app.js assets",
+    "publish":"node app.js publish"
+  }
+}

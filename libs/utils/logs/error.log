@@ -1,0 +1,3 @@
+{"level":"error","message":"Please upload assests first","timestamp":"2017-09-14T10:21:24.245Z"}
+{"level":"error","message":"{\"error_message\":\"Whoops. Our server played a trick on us.\",\"error_code\":104,\"errors\":{\"auth\":[\"Looks like your email or password is invalid.\"]}}","timestamp":"2017-09-14T10:25:13.086Z"}
+{"level":"error","message":"{\"error_message\":\"Whoops. Our server played a trick on us.\",\"error_code\":104,\"errors\":{\"auth\":[\"Looks like your email or password is invalid.\"]}}","timestamp":"2017-09-14T10:26:26.947Z"}
