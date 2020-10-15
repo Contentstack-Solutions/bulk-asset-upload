@@ -1,4 +1,6 @@
 ./config/index.json
+ron.txt
+./data/*
 
 # Logs
 logs
