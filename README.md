@@ -1,8 +1,11 @@
+**Not officially supported by Contentstack**
+
+
 # Contentstack Assets Upload and Publish tool
 
-Built.io Contentstack is a headless CMS with an API-first approach that puts content at the centre. It is designed to simplify the process of publication by separating code from content.
+Contentstack is a headless CMS with an API-first approach that puts content at the center. It is designed to simplify the process of publication by separating code from content.
 
-This tool helps you to upload asset files stored in a folder on your system into your stack and publish it. However, this tool does not work for asset files stored in nested folders..
+This tool helps you to upload asset files stored in a folder on your system into your stack and publish it. However, this tool does not work for asset files stored in nested folders.
 
 ## Installation
 
