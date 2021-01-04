@@ -42,7 +42,7 @@ In order to run the utility tool, you need to run the following command:
  npm run upload
  ```
 
-After running the above command, you will be prompted to enter your Built.io Contentstack account credentials.
+After running the above command, you will be prompted to enter your Contentstack account credentials.
 
  ```
    "email": <<YOUR EMAIL ADDRESS>>
@@ -60,7 +60,7 @@ In order to publish the uploaded assets, you need to run the following command:
  npm run publish
 ```
 
-After running the above command, you will be prompted to enter your Built.io Contentstack account credentials.
+After running the above command, you will be prompted to enter your Contentstack account credentials.
 
  ```
    "email": <<YOUR EMAIL ADDRESS>>
